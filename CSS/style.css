@@ -1,0 +1,15 @@
+#black {
+    background-color: black;
+}
+
+.pink {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(254, 56, 241);
+}
+
+div {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(108, 201, 255);
+}
